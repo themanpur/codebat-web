@@ -1,0 +1,20 @@
+.first_container {
+    margin-top: 30px;
+    margin-right: 20px;
+    justify-content: flex-start;
+} 
+.headPBG-color {
+    background-color: #03a192;
+}
+.headSBG-color {
+    background-color: #7dddd3;
+}
+.pBG-color {
+    background-color: #03a192;
+}
+.total_contribution {
+    color: #03a192;
+    font-size: 1.1rem;
+    font-weight: 200;
+    font-family: 'Mochiy Pop P one', sans-serif;
+}

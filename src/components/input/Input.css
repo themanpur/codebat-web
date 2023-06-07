@@ -1,0 +1,24 @@
+.container_Input {
+    display: block;
+    justify-content: center;
+    width: 350px;
+    margin-bottom: 10px;
+}
+.label {
+    text-align: left;
+    font-size: 0.8rem;
+    font-weight: 500;
+    width: 100%;
+}
+.input {
+    text-align: left;
+    border-color: none;
+    font-size: 0.8rem;
+    font-weight: 300;
+    width: 100%;
+    height: 30px;
+}
+.input:hover {
+    box-shadow: none;
+    transform: none;
+  }

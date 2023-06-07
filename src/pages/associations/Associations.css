@@ -1,0 +1,62 @@
+.container_a {
+    margin-top: 40px;
+} 
+.item_container_a {
+    display: flex;
+    flex-wrap: wrap;
+}
+.head__item_a {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 95%;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: 500;
+    background-color: #c7e9e5;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-top: 5px solid #014e45;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.head__item_value_a {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 95%;
+    color: black;
+    font-size: 1.rem;
+    background-color: #cdfaf5;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-top: 3px solid #014e45;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.item_number_a {
+    width: 3%;
+    text-align: center;
+}
+.item_name_a {
+    width: 15%;
+    text-align: left;
+}
+.item_contact_a {
+    width: 15%;
+    text-align: left;
+}
+.item_chef_a {
+    width: 17%;
+    text-align: left;
+}
+.item_president_a {
+    width: 17%;
+    text-align: left;
+}
+.item_town_a {
+    width: 13%;
+    text-align: left;
+}
+.item_contribution_a {
+    width: 15%;
+    text-align: left;
+}

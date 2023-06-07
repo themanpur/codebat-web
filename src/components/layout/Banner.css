@@ -1,0 +1,36 @@
+.banner {
+    position: fixed;
+    top: 0px;
+	right: 0px;
+	width: 100%;
+	display: flex;
+	text-align: left;
+	padding: 10px;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+    background-color: #03a192;
+}
+
+.title {
+	color: white;
+	display: grid;
+    place-items: center;
+    font-size: 1.3rem;
+    font-weight: 700;
+    font-family: 'Mochiy Pop P one', sans-serif;
+	margin-left: 10px;
+}
+.button {
+    margin-top: 10px;
+    background-color: #031815;
+    padding: 12px;
+    border: 1px solid #031815;
+    border-radius: 8px;
+    font-size: 1.1rem;
+	color: white;
+}
+.button:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px -10px rgba(233, 235, 240, 0.6);
+  }

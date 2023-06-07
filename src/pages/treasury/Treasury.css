@@ -1,0 +1,89 @@
+.container {
+    margin-top: 40px;
+}
+.header_container {
+    text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+    margin-bottom: 15px;
+    width: 95%;
+}
+.radio {
+    font-size: 1.rem;
+    font-weight: 300;
+    padding: 10px;
+}
+.total_contribution {
+    color: #03a192;
+    font-size: 1.1rem;
+    font-weight: 200;
+    font-family: 'Mochiy Pop P one', sans-serif;
+}
+.item_container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.head__item {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 95%;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: 500;
+    background-color: #c7e9e5;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-top: 5px solid #014e45;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.head__item_value {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 95%;
+    color: black;
+    font-size: 1.rem;
+    background-color: #cdfaf5;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-top: 3px solid #014e45;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.item_number {
+    width: 4%;
+    margin-left: 1%;
+}
+.item_association {
+    width: 20%;
+    margin-left: 1%;
+}
+.item_date {
+    width: 17%;
+    margin-left: 1%;
+}
+.item_amount {
+    width: 17%;
+    margin-left: 1%;
+}
+.item_town {
+    width: 17%;
+    margin-left: 1%;
+}
+.item_contribution {
+    width: 20%;
+    margin-left: 1%;
+}
+.item_motif {
+    width: 50%;
+    margin-left: 1%;
+}
+.item_date_w {
+    width: 20%;
+    margin-left: 1%;
+}
+.item_amount_w {
+    width: 20%;
+    margin-left: 1%;
+}
